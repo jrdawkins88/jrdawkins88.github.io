@@ -244,3 +244,13 @@ bt {
 img.profile {
 	border-radius: 50%; 
 }
+
+h3.grey {
+	color: grey;
+	margin-top: 5px; 
+	margin-bottom:1.5em;
+}
+
+h1.name {
+	margin-bottom:0px;
+}
