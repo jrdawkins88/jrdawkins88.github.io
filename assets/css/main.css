@@ -136,6 +136,8 @@ a:after {
 .pt {
 	padding-top: 50px;
 	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
 }
 
 
@@ -253,4 +255,11 @@ h3.grey {
 
 h1.name {
 	margin-bottom:0px;
+}
+
+h1.project {
+	text-align: center;
+	font-weight: lighter; 
+	margin-bottom:0px;
+	margin-top: 2em;
 }
